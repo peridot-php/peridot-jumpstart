@@ -21,6 +21,12 @@ $ composer require --dev peridot-php/peridot-jumpstart:~1.0
 After installing the jumpstart, a good starting point would be to copy this package's `peridot.php` file into the
 root of your project. This file will ensure all the included plugins are registered.
 
+If you installed the jumpstart via composer, you can follow up by doing this:
+
+```
+$ cp vendor/peridot-php/peridot-jumpstart/peridot.php .
+```
+
 After registering everything, `vendor/bin/peridot -h` should yield the following:
 
 ![Peridot Jumpstart](https://raw.github.com/peridot-php/peridot-jumpstart/master/output.png "Peridot jumpstart help")
