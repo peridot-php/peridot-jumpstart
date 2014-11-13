@@ -4,10 +4,10 @@ Peridot core and some commonly used packages to let you start doing BDD in PHP A
 
 ##Included plugins:
 
-* [List reporter](https://github.com/peridot-php/peridot-list-reporter)
-* [Dot reporter](https://github.com/peridot-php/peridot-dot-reporter)
-* [Code coverage reporters](https://github.com/peridot-php/peridot-code-coverage-reporters)
-* [Watcher plugin](https://github.com/peridot-php/peridot-watcher-plugin)
+* [List reporter](https://github.com/peridot-php/peridot-list-reporter) - list test results
+* [Dot reporter](https://github.com/peridot-php/peridot-dot-reporter) - show results as dot matrix
+* [Code coverage reporters](https://github.com/peridot-php/peridot-code-coverage-reporters) - code coverage
+* [Watcher plugin](https://github.com/peridot-php/peridot-watcher-plugin) - watch source and tests for changes and re-run
 
 ##Installing
 
