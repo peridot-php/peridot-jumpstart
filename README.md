@@ -2,12 +2,13 @@ Peridot Jumpstart
 =================
 Peridot core and some commonly used packages to let you start doing BDD in PHP ASAP.
 
-##Included plugins:
+##Included plugins and libraries:
 
 * [List reporter](https://github.com/peridot-php/peridot-list-reporter) - list test results
 * [Dot reporter](https://github.com/peridot-php/peridot-dot-reporter) - show results as dot matrix
 * [Code coverage reporters](https://github.com/peridot-php/peridot-code-coverage-reporters) - code coverage
 * [Watcher plugin](https://github.com/peridot-php/peridot-watcher-plugin) - watch source and tests for changes and re-run
+* [Leo](https://github.com/peridot-php/leo) - expressive assertion and matcher library
 
 ##Installing
 
