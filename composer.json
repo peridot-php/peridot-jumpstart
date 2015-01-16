@@ -26,7 +26,7 @@
         }
     },
     "scripts": {
-        "post-root-package-install": [
+        "post-install-cmd": [
             "Peridot\\Jumpstart\\Hook::copyPeridotFile"
         ]
     }
