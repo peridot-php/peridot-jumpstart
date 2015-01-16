@@ -19,5 +19,15 @@
     },
     "suggest": {
         "peridot-php/peridot-prophecy-plugin": "Easy mocking with Prophecy"
+    },
+    "autoload": {
+        "psr-4": {
+            "Peridot\\Jumpstart\\": "src/"
+        }
+    },
+    "scripts": {
+        "post-root-package-install": [
+            "Peridot\\Jumpstart\\Hook::copyPeridotFile"
+        ]
     }
 }
