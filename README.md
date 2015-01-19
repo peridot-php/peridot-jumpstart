@@ -15,7 +15,7 @@ Peridot core and some commonly used packages to let you start doing BDD in PHP A
 We recommend installing the jumpstart via composer:
 
 ```
-$ composer require --dev peridot-php/peridot-jumpstart:~1.0
+$ composer require --dev peridot-php/peridot-jumpstart
 ```
 
 ##Getting started
