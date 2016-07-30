@@ -1,6 +1,9 @@
 install: vendor/autoload.php
 
-.PHONY: install
+lint: install
+	vendor/bin/php-cs-fixer fix
+
+.PHONY: install lint
 
 vendor/autoload.php: composer.lock
 	COMPOSER_ROOT_VERSION=1.99.99 composer install
