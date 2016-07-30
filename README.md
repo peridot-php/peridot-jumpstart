@@ -1,5 +1,10 @@
 # Peridot Jumpstart
 
+[![Current version image][version-image]][current version]
+
+[current version]: https://packagist.org/packages/peridot-php/peridot-jumpstart
+[version-image]: https://img.shields.io/packagist/v/peridot-php/peridot-jumpstart.svg?style=flat-square "This project uses semantic versioning"
+
 Peridot core and some commonly used packages to let you start doing BDD in PHP
 ASAP.
 
