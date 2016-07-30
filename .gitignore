@@ -1,5 +1,2 @@
-*.swp
 .idea
-vendor
-composer.lock
-.DS_Store
+/vendor/
