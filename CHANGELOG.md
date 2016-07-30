@@ -1,6 +1,6 @@
 # Peridot Jumpstart changelog
 
-## Next release
+## 1.3.0 (2016-07-30)
 
 - **[IMPROVED]** The default `peridot.php` now sets the default path to `specs`
   ([#5]).
