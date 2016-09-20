@@ -9,6 +9,7 @@
             "email": "scaturrob@gmail.com"
         }
     ],
+    "type": "metapackage",
     "require": {
         "peridot-php/peridot": "^1",
         "peridot-php/peridot-list-reporter": "^1",
@@ -22,6 +23,7 @@
         "friendsofphp/php-cs-fixer": "^1"
     },
     "suggest": {
-        "peridot-php/peridot-prophecy-plugin": "Easy mocking with Prophecy"
+        "eloquent/peridot-phony": "Phony mocking integration",
+        "peridot-php/peridot-prophecy-plugin": "Prophecy mocking integration"
     }
 }
